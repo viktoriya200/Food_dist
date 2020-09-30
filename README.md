@@ -25,4 +25,5 @@ At the project i used technologies:
 2. Json-server to make a localhost for GET requests;
 3. Mamp for POST requests;
 4. Webpack for compiling the project;
-5. Git for making version of progect and pushing it in github.
+5. Git for making version of progect and pushing it in github;
+6. Babel for compiling JS code.
