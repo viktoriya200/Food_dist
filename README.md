@@ -5,7 +5,7 @@ ____
 ____
 It's a project for my CV. You can use the landing page for getting request in a delivery of food. Also users can calculate their calorie rate in one part of the application.
 
-##Tasks
+## Tasks
 ____
 It was just markup of before i started to work, I have been doing some tasks in this project. 
 
@@ -18,7 +18,7 @@ It was just markup of before i started to work, I have been doing some tasks in 
 * To construct menu cards dynamically from server(db.json);
 * To make a JS module with timer.
 
-##Technologies
+## Technologies
 ____
 At the project i used technologies:
 1. Javascript for coding;
